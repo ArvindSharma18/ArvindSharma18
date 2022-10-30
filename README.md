@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArvindSharma18
 - 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision
-- 🌱 I’m currently learning 5g Technology and use cases
+- 🌱 I’m currently working on AI, Data Analytics, DevOps/MLOps
 - 💞️ I’m looking to collaborate on State of the Art AI models for Customer Use cases and POCs.
 - 📫 How to reach me Mail: karvind1998@gmail.com or LinkedIn: https://www.linkedin.com/in/arvindsharma18/
 
